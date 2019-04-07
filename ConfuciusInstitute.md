@@ -8,6 +8,23 @@ What are Confucius Institutes? We are trying to figure this out, the articles he
 
 If you want to refer to the Reading List badge, read the section [What can I do?](#what-can-i-do) below.
 
+
+Academic articles:
+---
+* [Sahlins M (2014) Confucius Institutes: Academic Malware. Prickly Paradigm Press.](https://press.uchicago.edu/ucp/books/book/distributed/C/bo20637267.html).
+
+Government reports:
+---
+* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
+
+Newspaper reports:
+---
+* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
+
+Magazine reports:
+---
+* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
+
 United Kingdom Confucius Institutes:
 ---
 * [Aberdeen](https://www.abdn.ac.uk/confucius/)
@@ -34,23 +51,6 @@ United Kingdom Confucius Institutes:
 * [Strathclyde, CI for Scotlands schools](https://www.strath.ac.uk/humanities/confuciusinstituteforscotlandsschools/)
 * [Ulster](https://www.ulster.ac.uk/confucius)
 * [Wales Trniity Saint David, heritage studies](https://www.uwtsd.ac.uk/confucius-institute/)
-
-
-Related reports:
----
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
-
-Related reports:
----
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
-
-Related reports:
----
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
-
-Related reports:
----
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
 
 
 
