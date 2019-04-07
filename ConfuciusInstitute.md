@@ -10,30 +10,30 @@ If you want to refer to the Reading List badge, read the section [What can I do?
 
 United Kingdom Confucius Institutes:
 ---
-* Aberdeen[https://www.abdn.ac.uk/confucius/]
-* Cardiff[https://www.cardiff.ac.uk/confucius-institute]
-* Central Lancashire https://www.uclan.ac.uk/confucius/
-* CI for TCM http://www.ci4tcm.com/ [BROKEN?]
-* de Montfort https://www.dmu.ac.uk/community/confucius-institute.aspx
-* Edgehill https://www.edgehill.ac.uk/confuciusinstitute/about/
-* Edinburgh, CI for scotland in Edinburght http://www.confuciusinstitute.ac.uk/
-* Glasgow https://www.gla.ac.uk/explore/confucius/
-* Goldsmiths dance and performance https://www.gold.ac.uk/confucius-institute/
-* Heriot Watt, business and comms http://www.confuciusinstitute.hw.ac.uk/ http://english.hanban.org/node_43189.htm
-* IOE / UCL https://www.ucl.ac.uk/ioe/departments-and-centres/centres/ioe-confucius-institute-schools 'for schools'
-* Lampeter http://english.hanban.org/node_10578.htm [BROKEN?]
-* Lancaster https://www.lancaster.ac.uk/confucius-institute/ [many projects in other places]
-* Leeds Bus https://confucius.leeds.ac.uk/
-* Liverpool https://www.liverpool.ac.uk/confucius-institute/
-* LSE Bus http://www.lse.ac.uk/cibl
-* Manchester https://www.confuciusinstitute.manchester.ac.uk/about/partners/uk-confucius-institutes/
-* Nottingham https://www.nottingham.ac.uk/confucius/index.aspx
-* Sheffield https://www.sheffield.ac.uk/confucius
-* SOAS https://www.soas.ac.uk/lci/
-* Southampton https://www.southampton.ac.uk/ci/index.page
-* Strathclyde, CI for Scotlands schools https://www.strath.ac.uk/humanities/confuciusinstituteforscotlandsschools/
-* Ulster https://www.ulster.ac.uk/confucius
-* Wales Trniity Saint David, heritage studies https://www.uwtsd.ac.uk/confucius-institute/
+* [Aberdeen](https://www.abdn.ac.uk/confucius/)
+* [Cardiff](https://www.cardiff.ac.uk/confucius-institute)
+* [Central Lancashire](https://www.uclan.ac.uk/confucius/)
+* [CI for TCM](http://www.ci4tcm.com/) [BROKEN?]
+* [de Montfort](https://www.dmu.ac.uk/community/confucius-institute.aspx)
+* [Edgehill](https://www.edgehill.ac.uk/confuciusinstitute/about/)
+* [Edinburgh, CI for scotland in Edinburght](http://www.confuciusinstitute.ac.uk/)
+* [Glasgow](https://www.gla.ac.uk/explore/confucius/)
+* [Goldsmiths dance and performance](https://www.gold.ac.uk/confucius-institute/)
+* [Heriot Watt, business and comms](http://www.confuciusinstitute.hw.ac.uk/) [and Hanban link](http://english.hanban.org/node_43189.htm)
+* [IOE / UCL](https://www.ucl.ac.uk/ioe/departments-and-centres/centres/ioe-confucius-institute-schools) 'for schools'
+* [Lampeter](http://english.hanban.org/node_10578.htm) [BROKEN?]
+* [Lancaster](https://www.lancaster.ac.uk/confucius-institute/) [many projects in other places]
+* [Leeds Bus](https://confucius.leeds.ac.uk/)
+* [Liverpool](https://www.liverpool.ac.uk/confucius-institute/)
+* [LSE Bus](http://www.lse.ac.uk/cibl)
+* [Manchester](https://www.confuciusinstitute.manchester.ac.uk/about/partners/uk-confucius-institutes/)
+* [Nottingham](https://www.nottingham.ac.uk/confucius/index.aspx)
+* [Sheffield](https://www.sheffield.ac.uk/confucius)
+* [SOAS](https://www.soas.ac.uk/lci/)
+* [Southampton](https://www.southampton.ac.uk/ci/index.page)
+* [Strathclyde, CI for Scotlands schools](https://www.strath.ac.uk/humanities/confuciusinstituteforscotlandsschools/)
+* [Ulster](https://www.ulster.ac.uk/confucius)
+* [Wales Trniity Saint David, heritage studies](https://www.uwtsd.ac.uk/confucius-institute/)
 
 
 Related reports:
